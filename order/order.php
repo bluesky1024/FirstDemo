@@ -7,6 +7,6 @@
  */
 class order{
     public function order(){
-        echo "order_dev_2";
+        echo "order_dev";
     }
 }
