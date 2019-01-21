@@ -9,5 +9,7 @@
     echo "test for git";  //dev_1写的
 
     echo "test for git";  //dev_2写的
-
+	
+	
+	echo "new commit to be reset";
 	echo "test for git";  //dev_1本地分支my_test
